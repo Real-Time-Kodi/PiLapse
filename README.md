@@ -1,3 +1,6 @@
 # PiLapse
 
 This repository is for the development of a standalone Raspi Timelapse Camera. It currently has major issues *including* licensing so it is strongly reccomended that you wait a few days before using it.
+
+## Adafruit Pi-Cam
+Some of the code in this repository has been cloned from [the Adafruit-Pi-Cam](https://github.com/adafruit/adafruit-pi-cam) repository. The licence there applies to several parts of this software relating to the displaying of live images on screen. A copy of the licence is provided in the yuv2rgb folder.
